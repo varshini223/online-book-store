@@ -36,3 +36,13 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA files
+.idea/
+
+# SmartTomcat configuration
+.smarttomcat/
+
+# Logs and build artifacts
+*.log
+target/
